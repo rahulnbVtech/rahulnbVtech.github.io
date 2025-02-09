@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 Github Website
 
 
-Getting started
+Github Website
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
