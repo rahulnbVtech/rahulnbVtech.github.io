@@ -7,3 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+This is a website for my GitHub, which will be updated as time progresses. 
+
+Education
+B.S. in Computer Engineering, Virginia Tech, 2025
+
+
