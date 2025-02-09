@@ -23,13 +23,11 @@ repository               : "/rahulnbVtech/rahulnbVtech.github.io.git"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rahul"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "ECE 3574"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rahulnb@vt.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
