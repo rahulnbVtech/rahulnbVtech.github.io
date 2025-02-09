@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Rahul Bhamidipati"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Rahul"
 description              : &description "personal description"
 url                      : https://rahulnbvtech.github.io # the base hostname & protocol for your site e.g. "https://[rahulnbVtech].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "rahulnbVtech"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
